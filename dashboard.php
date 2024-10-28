@@ -6,7 +6,7 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, user-scalable=0"
     />
-    <meta name="description" content="POS - Bootstrap Admin Template" />
+    <meta name="description" content="" />
     <meta
       name="keywords"
       content="admin, estimates, bootstrap, business, corporate, creative, management, minimal, modern,  html5, responsive"
